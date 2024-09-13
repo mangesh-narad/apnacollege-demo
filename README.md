@@ -1,2 +1,2 @@
 # apnacollege-demo
-This is my latest Git Repositiory.
+This is my latest Git Repository.
